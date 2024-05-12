@@ -1,5 +1,7 @@
 # 1 实验内容
-构建CameraX应用
+- CameraX是Android最新的支持开发相机应用的Jetpack库（API level21以上）
+- 本实验将按照教程完成CameraXAPP的构建
+- 要求上传代码至Github，并撰写详细的Readme文档。
 # 2 实验记录
 ## 2.1 创建项目
 ### 2.1.1 新建空项目
